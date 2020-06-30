@@ -4,3 +4,7 @@ Jetzt folgt eine Beschreibung meines Charakters mit 30 bis 50 Woertern. Diese Be
 * Erstes Listenelement
 * Zweites Listenelement
 * Drittes Listenelement
+
+Ein Zitat meines Charakters
+> Ich bin ein Zitat
+> meines Charakters!
