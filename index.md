@@ -8,3 +8,5 @@ Jetzt folgt eine Beschreibung meines Charakters mit 30 bis 50 Woertern. Diese Be
 Ein Zitat meines Charakters
 > Ich bin ein Zitat
 > meines Charakters!
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Strichmaennchen.svg">
